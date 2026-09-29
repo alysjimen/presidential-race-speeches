@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "4cf1197f-f3c9-4f47-8d5f-41afbdc30341": {
+      "label": "First presidential debate (full video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=855Am6ovK7s",
+      "duration": 4700
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "NBC News, âThe First Presidential Debate: Hillary Clinton And Donald Trump (Full Debate),â September 26, 2016.",
+  "label": "01:18:20â01:23:32 | Foreign policy and nuclear risk",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transcript timestamp 01:18:20 to 01:23:32. Foreign policy and nuclear risk: The candidates dispute judgment, the Iran nuclear agreement, alliances, and nuclear proliferation."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-09-29T02:05:27.007Z",
+  "created_by": "alysjimen",
+  "updated_at": "2026-09-29T02:05:27.007Z",
+  "updated_by": "alysjimen"
+}

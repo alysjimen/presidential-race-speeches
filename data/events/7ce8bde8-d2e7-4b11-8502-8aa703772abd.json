@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "1cffdd0b-ed0d-4448-a903-70553309f6dd": {
+      "label": "First presidential debate (full video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=855Am6ovK7s",
+      "duration": 3758
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "NBC News, âThe First Presidential Debate: Hillary Clinton And Donald Trump (Full Debate),â September 26, 2016.",
+  "label": "01:02:38â01:07:57 | Cybersecurity",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transcript timestamp 01:02:38 to 01:07:57. Cybersecurity: Clinton points to Russian cyberattacks; Trump disputes certainty about who hacked the Democratic National Committee."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-09-29T02:05:27.007Z",
+  "created_by": "alysjimen",
+  "updated_at": "2026-09-29T02:05:27.007Z",
+  "updated_by": "alysjimen"
+}

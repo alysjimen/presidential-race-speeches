@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "035171c1-0b27-4dcd-8a8d-36f72fff3548": {
+      "label": "First presidential debate (full video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=855Am6ovK7s",
+      "duration": 2407
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "NBC News, âThe First Presidential Debate: Hillary Clinton And Donald Trump (Full Debate),â September 26, 2016.",
+  "label": "00:40:07â00:54:20 | Race, policing, and public safety",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transcript timestamp 00:40:07 to 00:54:20. Race, policing, and public safety: Holt opens Americaâs Direction; the candidates discuss racial inequality, police relations, crime, gun policy, and stop-and-frisk."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-09-29T02:05:27.007Z",
+  "created_by": "alysjimen",
+  "updated_at": "2026-09-29T02:05:27.007Z",
+  "updated_by": "alysjimen"
+}

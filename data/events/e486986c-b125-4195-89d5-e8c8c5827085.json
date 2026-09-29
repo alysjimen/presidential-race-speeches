@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "449876df-3dd2-4e4e-a60d-c2e17164aa37": {
+      "label": "First presidential debate (full video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=855Am6ovK7s",
+      "duration": 4077
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "NBC News, âThe First Presidential Debate: Hillary Clinton And Donald Trump (Full Debate),â September 26, 2016.",
+  "label": "01:07:57â01:18:20 | ISIS and Iraq",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transcript timestamp 01:07:57 to 01:18:20. ISIS and Iraq: The candidates discuss counterterrorism, attacks in the United States, the Iraq withdrawal, and Trumpâs stated position on the Iraq War."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-09-29T02:05:27.007Z",
+  "created_by": "alysjimen",
+  "updated_at": "2026-09-29T02:05:27.007Z",
+  "updated_by": "alysjimen"
+}

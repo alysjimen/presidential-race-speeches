@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "42b0cdbb-7ef5-4bb7-a754-e5d6738124e1": {
+      "label": "First presidential debate (full video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=855Am6ovK7s",
+      "duration": 880
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "NBC News, âThe First Presidential Debate: Hillary Clinton And Donald Trump (Full Debate),â September 26, 2016.",
+  "label": "00:14:40â00:20:49 | Trade agreements",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transcript timestamp 00:14:40 to 00:20:49. Trade agreements: The candidates dispute NAFTA, the Trans-Pacific Partnership, manufacturing losses, and Clintonâs record on trade."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-09-29T02:05:27.007Z",
+  "created_by": "alysjimen",
+  "updated_at": "2026-09-29T02:05:27.007Z",
+  "updated_by": "alysjimen"
+}

@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "a0924711-3fc7-4c1f-a449-77d8c09d2d2e": {
+      "label": "First presidential debate (full video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=855Am6ovK7s",
+      "duration": 1665
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "NBC News, âThe First Presidential Debate: Hillary Clinton And Donald Trump (Full Debate),â September 26, 2016.",
+  "label": "00:27:45â00:35:51 | Tax returns and emails",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transcript timestamp 00:27:45 to 00:35:51. Tax returns and emails: Holt asks Trump about his unreleased returns; Trump raises Clintonâs deleted emails, and Clinton responds to both issues."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-09-29T02:05:27.007Z",
+  "created_by": "alysjimen",
+  "updated_at": "2026-09-29T02:05:27.007Z",
+  "updated_by": "alysjimen"
+}
